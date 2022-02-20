@@ -6,4 +6,4 @@ This program analyzed the unformatted text, and comapred differen't rommate's en
 
 The spreadheet of compatibility scores was then published to the Discord server, and helped many students, including myself, find a roommate.
 
-PurdueE is the unformatted csv file of student responses, RoomateCompadibility is the compadibility scores
+PurdueE is the unformatted csv file of student responses, RoomateDatais the compadibility scores
