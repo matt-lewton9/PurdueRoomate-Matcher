@@ -16,6 +16,7 @@ def strcmp(subj, obj):
     for i in range(len(subjtmp)):
         if subjtmp[i] in objtmp and subjtmp[i] not in excpt:
             return 1
+    return 0
 
 #compare common positives
 def poscmp(subj, obj):
